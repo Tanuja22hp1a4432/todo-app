@@ -9,7 +9,7 @@ A simple and responsive To-Do List App built with **HTML**, **CSS**, and **JavaS
 
 ## 🚀 Live Demo
 
-[Click here to view the live app](https://your-username.github.io/todo-app/)
+[Click here to view the live app](https://Tanuja22hp1a4432.github.io/todo-app/)
 
 > Replace `your-username` with your actual GitHub username
 
